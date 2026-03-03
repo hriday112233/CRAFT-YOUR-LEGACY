@@ -1,0 +1,7 @@
+{
+  "name": "Remix: BIDA - Bhaav Institute x Digital Azadi",
+  "description": "A premier digital marketing institute featuring an AI multilingual voice assistant, dynamic pricing, and adaptive AI course content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
